@@ -5,7 +5,7 @@ This profile is just getting started.
 Most of my career work has been private, but includes topics such as:
 - Custom OS for embedded applications
 - Various machine Controls and Diagnostics
-- Custom simulation platforms for NaMx and LiIon battery systems
+- Custom simulation platforms for NaMx and Li-ion battery systems
 - SITL + HITL platforms for system development and testing
 - End to end data and analytics pipelines
 - Cloud-based analytics and microservices
