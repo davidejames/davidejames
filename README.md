@@ -1,4 +1,4 @@
-## Electrical Engineer practicing Analytics, Software, and Data Engineering
+## Data/Software Engineer with a background in Electrical Engineering and Analytics
 
 This profile is just getting started.
 
