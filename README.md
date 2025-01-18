@@ -10,8 +10,8 @@ Most of my career work has been private, but includes topics such as:
 - End to end data and analytics pipelines
 - Cloud-based analytics and microservices
 
-What makes sense to put here? From now on, I plan on including anything I'm working on
-for my personal use and projects I startup for learning purposes.
+Personal Projects:
+- JamesWorld - a gaming cluster for my family and friends
 
 <!--
 **davidejames/davidejames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
