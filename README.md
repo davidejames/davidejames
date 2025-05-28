@@ -1,7 +1,5 @@
 ## Data/Software Engineer with a background in Electrical Engineering and Analytics
 
-This profile is just getting started.
-
 Most of my career work has been private, but includes topics such as:
 - Custom OS for embedded applications
 - Various machine Controls and Diagnostics
