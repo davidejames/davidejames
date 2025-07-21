@@ -9,15 +9,20 @@ Most of my career work has been private, but includes topics such as:
 - End to end data and analytics pipelines
 - Cloud-based analytics and microservices
 
-Personal Projects:
-- JamesWorld - a gaming cluster for my family and friends
+Current Projects:
+- JamesWorld 4.0 - a gaming cluster for my family and friends
 - HomeLab - customized router, personal server, (wip) compute cluster
 - Python toolkit libraries - set of resilience libraries
+
+Past Projects:
+- Alpine Linux as Daily-Driver Laptop OS with containerized Applications
+- JamesWorld 3.0/2.0 (RIP)
 
 Currently Studying:
 - Linear Algebra
 - Algorithms
 - Resilience
+- Baduk / Go
 
 <!--
 **davidejames/davidejames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
