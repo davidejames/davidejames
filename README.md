@@ -10,6 +10,9 @@ Most of my career work has been private, but includes topics such as:
 
 Personal Projects:
 - JamesWorld - a gaming cluster for my family and friends
+- HomeLab - customized router, personal server, (wip) compute cluster
+- Python toolkit libraries - set of resilience libraries
+
 
 <!--
 **davidejames/davidejames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
