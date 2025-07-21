@@ -1,4 +1,5 @@
-## Engineer with background in Electrical/Analyics/Software/Data ##
+I'm David - an Elecitrical Engineer by trainig, Software Engineer by passion.  
+I'm currently an Analytics/Data Engineer working for GE Vernova.
 
 Most of my career work has been private, but includes topics such as:
 - Custom OS for embedded applications
@@ -13,6 +14,10 @@ Personal Projects:
 - HomeLab - customized router, personal server, (wip) compute cluster
 - Python toolkit libraries - set of resilience libraries
 
+Currently Studying:
+- Linear Algebra
+- Algorithms
+- Resilience
 
 <!--
 **davidejames/davidejames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
