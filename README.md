@@ -1,4 +1,4 @@
-## Data/Software Engineer with a background in Electrical Engineering and Analytics
+## Engineer with background in Electrical/Analyics/Software/Data ##
 
 Most of my career work has been private, but includes topics such as:
 - Custom OS for embedded applications
