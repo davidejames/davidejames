@@ -19,6 +19,7 @@ Past Projects:
 - JamesWorld 3.0/2.0 (RIP)
 
 Currently Studying:
+- LaTeX
 - Linear Algebra
 - Algorithms
 - Resilience
